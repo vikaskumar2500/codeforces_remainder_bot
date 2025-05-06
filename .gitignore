@@ -10,6 +10,7 @@ __pycache__/
 env/
 venv/
 ENV/
+Dockerfile
 # If you ever had a config file with the actual token, add its old name here
 # e.g., old_config_with_token.py
 
